@@ -1,0 +1,120 @@
+
+.footer {
+    height: 180px;
+    margin-top: 100px;
+    background-color: #a0ddfa;
+  }
+  
+ .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .footlinks ul li {
+    margin-bottom: 15px;
+  }
+  
+  .footlinks ul li a {
+    font-size: 17px;
+    color: #dddddd;
+    display: block;
+    transition: ease 0.3s;
+  }
+  
+  .footlinks ul li a:hover {
+    transform: translate(6px);
+    color: white;
+  }
+  
+  .social a {
+    font-size: 25px;
+    margin: 4px;
+    height: 40px;
+    width: 40px;
+    color: rgb(21, 74, 74);
+    background-color: white;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    transition: ease 0.3s;
+  }
+  
+  .social a:hover {
+    transform: scale(1.2);
+  }
+  
+  .end {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 12px;
+  }
+  
+  .end p {
+    font-size: 15px;
+    color: rgb(240, 235, 235);
+    letter-spacing: 1px;
+    font-weight: 300;
+  }
+  
+.footer {
+    height: 180px;
+    margin-top: 100px;
+    background-color: #a0ddfa;
+  }
+  
+ .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .footlinks ul li {
+    margin-bottom: 15px;
+  }
+  
+  .footlinks ul li a {
+    font-size: 17px;
+    color: #dddddd;
+    display: block;
+    transition: ease 0.3s;
+  }
+  
+  .footlinks ul li a:hover {
+    transform: translate(6px);
+    color: white;
+  }
+  
+  .social a {
+    font-size: 25px;
+    margin: 4px;
+    height: 40px;
+    width: 40px;
+    color: rgb(21, 74, 74);
+    background-color: white;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    transition: ease 0.3s;
+  }
+  
+  .social a:hover {
+    transform: scale(1.2);
+  }
+  
+  .end {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 12px;
+  }
+  
+  .end p {
+    font-size: 15px;
+    color: rgb(240, 235, 235);
+    letter-spacing: 1px;
+    font-weight: 300;
+  }
+  
+  

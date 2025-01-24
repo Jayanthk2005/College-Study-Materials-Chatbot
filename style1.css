@@ -1,0 +1,241 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(to right,#eae3e4,#b6ffb0);
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+nav {
+    width: 100%;
+    background-color:#b6ffb0;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+main {
+    flex: 1;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.navbar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+.navbar a {
+    color: rgb(14, 14, 14);
+    text-decoration: none;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+}
+
+.navbar a:hover {
+    background-color: hsl(266, 14%, 90%);
+}
+
+.navbar li {
+    float: none;
+    margin-right: 20px;
+}
+
+.container {
+    background-color: #e3f8f0;
+    padding: 20px 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    width: 400px;
+    margin: auto;
+    text-align: center;
+}
+
+p {
+    color: #555;
+    line-height: 1.6;
+}
+
+label {
+    display: block;
+    text-align: left;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+    width: 100%;    
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+textarea {
+    resize: vertical;
+}
+
+input[type="submit"] {
+    background-color: #7be2fb;
+    color: rgb(253, 241, 241);
+    padding: 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 100%;
+    font-size: 16px;
+}
+
+input[type="submit"]:hover {
+    background-color: #31a4fc;
+}
+
+.product-list {
+    text-align: left;
+}
+
+.product-item {
+    margin-bottom: 20px;
+}
+
+.product-item h2 {
+    font-size: 20px;
+    color: #7cadf6;
+}
+
+.product-item p {
+    color: #555;
+}
+
+
+.footer {
+    height: 180px;
+    margin-top: 100px;
+    background-color: #a0ddfa;
+  }
+  
+ .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .footlinks ul li {
+    margin-bottom: 15px;
+  }
+  
+  .footlinks ul li a {
+    font-size: 17px;
+    color: #dddddd;
+    display: block;
+    transition: ease 0.3s;
+  }
+  
+  .footlinks ul li a:hover {
+    transform: translate(6px);
+    color: white;
+  }
+  
+  .social a {
+    font-size: 25px;
+    margin: 4px;
+    height: 40px;
+    width: 40px;
+    color: rgb(21, 74, 74);
+    background-color: white;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    transition: ease 0.3s;
+  }
+  
+  .social a:hover {
+    transform: scale(1.2);
+  }
+  
+  .end {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 12px;
+  }
+  
+  .end p {
+    font-size: 15px;
+    color: rgb(240, 235, 235);
+    letter-spacing: 1px;
+    font-weight: 300;
+  }
+  
+.footer {
+    height: 180px;
+    margin-top: 100px;
+    background-color: #a0ddfa;
+  }
+  
+ .footer-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  
+  .footlinks ul li {
+    margin-bottom: 15px;
+  }
+  
+  .footlinks ul li a {
+    font-size: 17px;
+    color: #dddddd;
+    display: block;
+    transition: ease 0.3s;
+  }
+  
+  .footlinks ul li a:hover {
+    transform: translate(6px);
+    color: white;
+  }
+  
+  .social a {
+    font-size: 25px;
+    margin: 4px;
+    height: 40px;
+    width: 40px;
+    color: rgb(21, 74, 74);
+    background-color: white;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    transition: ease 0.3s;
+  }
+  
+  .social a:hover {
+    transform: scale(1.2);
+  }
+  
+  .end {
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 12px;
+  }
+  
+  .end p {
+    font-size: 15px;
+    color: rgb(240, 235, 235);
+    letter-spacing: 1px;
+    font-weight: 300;
+  }
+  
+  
