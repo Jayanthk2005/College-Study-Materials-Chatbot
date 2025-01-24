@@ -27,3 +27,6 @@ How It Works
 Users log in using their credentials.
 If authenticated, they are directed to a dashboard where they can select their department.
 Upon selection, the user is redirected to a Dialogflow-embedded chatbot that provides the study materials for that department.
+
+
+![image alt](https://github.com/Jayanthk2005/College-Study-Materials-Chatbot/blob/585e8ce5368ff33ac52aa7d212663760966a3169/screenshort/Screenshot%202025-01-24%20190634.png)
